@@ -18,4 +18,8 @@
         </div>
         <button type="submit" class="btn btn-primary">Posting</button>
     </form>
+
+    <div class="mt-5 text-warning">
+        <p>Note: table article adalah foreign key dari tabel user, agar berjalan setidaknya harus ada data pada tabel user</p>
+    </div>
 @endsection
